@@ -11,15 +11,17 @@ $( document ).ready(function() {
 
 //open json file in js
   $.getJSON( words_file, function( data ) {
-
+    console.log(data);
     // convert it in a string
     var words_text = JSON.stringify(data);
 
     var words = jQuery.parseJSON( words_text);
+    console.log(words);
 
     // push subject key in a array
     $.each(words, function(key) {
       subjects.push(key);
+      console.log(subjects);
     });
 
     // select randomly the subject
