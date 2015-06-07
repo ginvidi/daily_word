@@ -1,0 +1,56 @@
+{
+  "phrasalverb":
+  [
+    {"act on sb’s (advice)" : "To do something because someone has said that you should"},
+    {"back sth up" : "To make an extra copy of computer information, for example on a disk or a hard drive"},
+    {"ask someone out" : "Invite on a date"},
+    {"ask around" : "Ask many people the same question"},
+    {"add up to something" : "Equal"},
+    {"back something up" : "Reverse"},
+    {"back someone up" : "Support"},
+    {"blow up" : "Explode"},
+    {"blow something up" : "Add air"},
+    {"break down" : "1. Stop functioning (vehicle, machine).<br>2. Get upset"},
+    {"break something down" : "Divide into smaller parts"},
+    {"break in" : "Force entry to a building"},
+    {"break into something" : "Enter forcibly"},
+    {"break something in" : "Wear something a few times so that it doesn't look/feel new"},
+    {"break in" : "Interrupt"},
+    {"break up" : "1. End a relationship. <br>2. Start laughing (informal)"},
+    {"break out" : "escape"},
+    {"break out in something" : "Develop a skin condition"},
+    {"bring someone down" : "Make unhappy"},
+    {"bring someone up" : "Raise a child"},
+    {"bring something up" : "Start talking about a subject"},
+    {"bring something up" : "Vomit"},
+    {"call around" : "Phone many different places/people"},
+    {"call someone back" : "Return a phone call"}
+  ],
+
+  "animal":
+  [
+    {"hen": "1. A female bird, especially of a domestic fowl.<br>2. Domestic fowls of either sex.<br>3. Used in names of birds, especially waterbirds of the rail family. <br>3. A female lobster, crab, or salmon."},
+    {"Ant" : "A small insect, often with a sting, that usually lives in a complex social colony with one or more breeding queens. It is wingless except for fertile adults, which often form large mating swarms, and is proverbial for industriousness."},
+    {"Anteater" : "A mammal that feeds on ants and termites. It has a long snout and sticky tongue."},
+    {"cub" : "1. The young of a fox, bear, lion, or other carnivorous mammal.<br>2. A young man, especially one who is awkward or ill-mannered."},
+    {"chick" : "1. A young bird, especially one newly hatched.<br>2.  newly hatched domestic fowl.<br>3. A young woman."},
+    {"hatchling" : "A young animal that has recently emerged from its egg."},
+    {"sow" : "1. An adult female pig, especially one that has farrowed.<br>2. The female of certain other mammals, e.g., the guinea pig.<br>3. A large block of metal (larger than a “pig”) made by smelting."},
+      {"boar" : "1. tusked Eurasian wild pig from which domestic pigs are descended.<br>2. The flesh of the wild boar as food.<br>3. An uncastrated domestic male pig.<br>4. The full-grown male of certain other animals, especially a badger, guinea pig, or hedgehog."},
+      {"flock" : "1. A number of birds of one kind feeding, resting, or traveling together.<br>2. A number of domestic animals, especially sheep, goats, or geese, that are kept together.<br>3. Herd drove large crowds of people.<br>4. Crowd throng horde mob rabble mass multitude host army pack swarm sea gaggle a group of children or students in someone's charge.<br>5. Flight congregation covey clutch a Christian congregation or body of believers, especially one under the charge of a particular minister."},
+      {"colony" : "1. Community of animals or plants of one kind living close together or forming a physically connected structure.<br>2. A group of fungi or bacteria grown from a single spore or cell on a culture medium."},
+      {"pupa/pupae - larva/larvae " : "an insect in its inactive immature form between larva and adult, e.g., a chrysalis."},
+      {"Antelope" : "1. A swift-running deerlike ruminant with smooth hair and upward-pointing horns, native to Africa and Asia.<br>2. Another term for pronghorn."},
+      {"calf/calves" : "1. A young bovine animal, especially a domestic cow or bull in its first year.<br>2. The young of some other large mammals, such as elephants, rhinoceroses, large deer and antelopes, and whales.<br>3. Short for calfskin.<br>4. A floating piece of ice detached from an iceberg."},
+      {"doe" : "1. A female deer.<br>2. A female of certain other animal species, such as hare, rabbit, rat, ferret, or kangaroo."},
+      {"buck" : "1. The male of some antlered animals, especially the fallow deer, roe deer, reindeer, and antelopes.<br>2. A male hare, rabbit, ferret, rat, or kangaroo.<br>3. A vaulting horse.<br>4. A vertical jump performed by a horse, with the head lowered, back arched, and back legs thrown out behind.<br>5. A fashionable and typically high-spirited young man.<br>6. A black or American Indian man.<br>7. An oxford shoe made of buckskin."}
+
+
+      ],
+
+      "vegetable":
+      [
+        {"Anise": "A Mediterranean plant of the parsley family, cultivated for its aromatic seeds, which are used in cooking and herbal medicine."}
+
+      ]
+    }
