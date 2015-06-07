@@ -1,0 +1,42 @@
+{
+  "phrasalverb":
+    [
+      {"act on sb’s (advice)" : "To do something because someone has said that you should"},
+      {"back sth up" : "To make an extra copy of computer information, for example on a disk or a hard drive"},
+      {"ask someone out" : "Invite on a date"},
+      {"ask around" : "Ask many people the same question"},
+      {"add up to something" : "Equal"},
+      {"back something up" : "Reverse"},
+      {"back someone up" : "Support"},
+      {"blow up" : "Explode"},
+      {"blow something up" : "Add air"},
+      {"break down" : "1. Stop functioning (vehicle, machine).<br>2. Get upset"},
+      {"break something down" : "Divide into smaller parts"},
+      {"break in" : "Force entry to a building"},
+      {"break into something" : "Enter forcibly"},
+      {"break something in" : "Wear something a few times so that it doesn't look/feel new"},
+      {"break in" : "Interrupt"},
+      {"break up" : "1. End a relationship. 2. Start laughing (informal)"},
+      {"break out" : "escape"},
+      {"break out in something" : "Develop a skin condition"},
+      {"bring someone down" : "Make unhappy"},
+      {"bring someone up" : "Raise a child"},
+      {"bring something up" : "Start talking about a subject"},
+      {"bring something up" : "Vomit"},
+      {"call around" : "Phone many different places/people"},
+      {"call someone back" : "Return a phone call"}
+    ],
+
+  "animal":
+    [
+      {"hen": "1. A female bird, especially of a domestic fowl.<br>2. Domestic fowls of either sex.<br>3. Used in names of birds, especially waterbirds of the rail family. <br>3. A female lobster, crab, or salmon."}
+
+
+    ],
+
+  "vegetable":
+    [
+      {"Anise": "A Mediterranean plant of the parsley family, cultivated for its aromatic seeds, which are used in cooking and herbal medicine."}
+
+    ]
+}

@@ -1,0 +1,29 @@
+html {
+  height:100%;
+}
+body {
+  min-height:100%;
+  font-family: 'Indie Flower', cursive;
+}
+
+ #body {
+  background: rgba(183,222,237,1);
+  background: -moz-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 24%, rgba(95,198,230,1) 39%, rgba(33,180,226,1) 61%, rgba(183,222,237,1) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(183,222,237,1)), color-stop(24%, rgba(113,206,239,1)), color-stop(39%, rgba(95,198,230,1)), color-stop(61%, rgba(33,180,226,1)), color-stop(100%, rgba(183,222,237,1)));
+  background: -webkit-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 24%, rgba(95,198,230,1) 39%, rgba(33,180,226,1) 61%, rgba(183,222,237,1) 100%);
+  background: -o-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 24%, rgba(95,198,230,1) 39%, rgba(33,180,226,1) 61%, rgba(183,222,237,1) 100%);
+  background: -ms-linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 24%, rgba(95,198,230,1) 39%, rgba(33,180,226,1) 61%, rgba(183,222,237,1) 100%);
+  background: linear-gradient(45deg, rgba(183,222,237,1) 0%, rgba(113,206,239,1) 24%, rgba(95,198,230,1) 39%, rgba(33,180,226,1) 61%, rgba(183,222,237,1) 100%);
+
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed', GradientType=1 );
+
+  height: 100%;
+      }
+
+
+#word {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight:bold;
+
+}
