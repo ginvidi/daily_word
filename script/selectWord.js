@@ -15,6 +15,8 @@ $( document ).ready(function() {
 
 
 //open json file in js
+
+function gimmeWord(words_file,subjects){
   $.getJSON( words_file, function( data ) {
     console.log(data);
     // convert it in a string
@@ -46,9 +48,18 @@ $( document ).ready(function() {
 
 
   });
+  }
+
+
 //click to have new word
 $( "#newWord button" ).click(function() {
-  location.reload();
+  $.ajax({
+    url: "index.html",
+    context: document.body
+  }).done(function() {
+    console.log("in");
+    gimmeWord(words_file,subjects);
+  });
 });
 
 
