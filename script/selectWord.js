@@ -49,17 +49,13 @@ function gimmeWord(words_file,subjects){
 
   });
   }
-
+  gimmeWord(words_file,subjects);
 
 //click to have new word
 $( "#newWord button" ).click(function() {
-  $.ajax({
-    url: "index.html",
-    context: document.body
-  }).done(function() {
 
     gimmeWord(words_file,subjects);
-  });
+
 });
 
 
