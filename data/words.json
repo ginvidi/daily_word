@@ -21,8 +21,7 @@
     {"break out in something" : "Develop a skin condition"},
     {"bring someone down" : "Make unhappy"},
     {"bring someone up" : "Raise a child"},
-    {"bring something up" : "Start talking about a subject"},
-    {"bring something up" : "Vomit"},
+    {"bring something up" : "1. Start talking about a subject<br>2. Vomit"},
     {"call around" : "Phone many different places/people"},
     {"call someone back" : "Return a phone call"}
   ],
@@ -43,14 +42,16 @@
       {"Antelope" : "1. A swift-running deerlike ruminant with smooth hair and upward-pointing horns, native to Africa and Asia.<br>2. Another term for pronghorn."},
       {"calf/calves" : "1. A young bovine animal, especially a domestic cow or bull in its first year.<br>2. The young of some other large mammals, such as elephants, rhinoceroses, large deer and antelopes, and whales.<br>3. Short for calfskin.<br>4. A floating piece of ice detached from an iceberg."},
       {"doe" : "1. A female deer.<br>2. A female of certain other animal species, such as hare, rabbit, rat, ferret, or kangaroo."},
-      {"buck" : "1. The male of some antlered animals, especially the fallow deer, roe deer, reindeer, and antelopes.<br>2. A male hare, rabbit, ferret, rat, or kangaroo.<br>3. A vaulting horse.<br>4. A vertical jump performed by a horse, with the head lowered, back arched, and back legs thrown out behind.<br>5. A fashionable and typically high-spirited young man.<br>6. A black or American Indian man.<br>7. An oxford shoe made of buckskin."}
+      {"buck" : "1. The male of some antlered animals, especially the fallow deer, roe deer, reindeer, and antelopes.<br>2. A male hare, rabbit, ferret, rat, or kangaroo.<br>3. A vaulting horse.<br>4. A vertical jump performed by a horse, with the head lowered, back arched, and back legs thrown out behind.<br>5. A fashionable and typically high-spirited young man.<br>6. A black or American Indian man.<br>7. An oxford shoe made of buckskin."},
+      {"Ape" : "1. A large primate that lacks a tail, including the gorilla, chimpanzees, orangutan, and gibbons.<br>2. Used in names of macaque monkeys with short tails.<br>3. Primate simian monkey anthropoid (in general use) any monkey.<br>4. An unintelligent or clumsy person.<br>5. n inferior imitator or mimic."},
+      {"infant" : "1. A very young child or baby.<br>2. Denoting something in an early stage of its development.<br>3. Developing emergent emerging embryonic nascent incipient new fledgling budding up-and-coming<br>4. a person who has not attained legal majority."},
+      {"foal" : "A young horse or related animal."},
+      {"Jenny" : "A female donkey or ass."},
+      {"Jack" : "The male of some animals, especially a merlin or an ass"},
+      {"herd" : "A large group of animals, especially hoofed mammals, that live, feed, or migrate together or are kept together as livestock."},
+      {"school" : "A large group of fish or sea mammals."},
+      {"Beaver" : "1. A large semiaquatic broad-tailed rodent that is native to North America and northern Eurasia. It is noted for its habit of gnawing through tree trunks to fell the trees in order to feed on the bark and build dams.<br>2. The soft light brown fur of the beaver.<br>3. A hat made of felted beaver fur.<br>4. A heavy woolen cloth resembling felted beaver fur.<br>5. a very hard-working person."}
 
-
-      ],
-
-      "vegetable":
-      [
-        {"Anise": "A Mediterranean plant of the parsley family, cultivated for its aromatic seeds, which are used in cooking and herbal medicine."}
 
       ]
     }

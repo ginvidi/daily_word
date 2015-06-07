@@ -1,12 +1,17 @@
 
 $( document ).ready(function() {
+//get date
+{
+  var dNow = new Date();
+  var localdate = dNow.toDateString();
+//var localdate =  dNow.getDate() + '/' + (dNow.getMonth()+1).toDateString()+ '/'  + dNow.getFullYear() ;
+  $('#currentDate').text(localdate)
+}
 
 //Data
   words_file = "data/words.json";
   var subjects = [];
-  var keys_phrasalverb = [];
-  var keys_animal = [];
-  var keys_vegetable = [];
+
 
 
 //open json file in js
@@ -41,7 +46,10 @@ $( document ).ready(function() {
 
 
   });
-
+//click to have new word
+$( "#newWord button" ).click(function() {
+  location.reload();
+});
 
 
 

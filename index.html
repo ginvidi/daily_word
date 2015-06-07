@@ -4,6 +4,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <link rel="icon" type="image/png" href="img/idea.png" sizes="16x16">
   <meta name="description" content="Every day a new English word to use in tour conversation">
   <meta name="keywords" content="Learn, English">
   <meta name="author" content="Ginevra Diana">
@@ -25,13 +26,17 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-offset-3 col-md-6">
-          <h1>Your word of the day is:</h1>
+          <h1 id="currentDate"></h1>
+          <h1>Your word of the day  is:</h1>
         </div>
       </div>
       <div class="row">
         <div class="col-md-offset-3 col-md-6">
           <h1 id="word"></h1>
           <h3 id="definition"></h3>
+        </div>
+        <div class="col-md-offset-4 col-md-4" id="newWord">
+          <button type="button" class="btn btn-warning">New Word</button>
         </div>
       </div>
     </div>

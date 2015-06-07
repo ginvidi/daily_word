@@ -20,10 +20,28 @@ body {
   height: 100%;
       }
 
-
+  h1{
+    text-align:center;
+  }
 #word {
   text-align: center;
   text-transform: uppercase;
   font-weight:bold;
 
+}
+
+
+#newWord{
+  margin-top:10px;
+}
+
+#newWord button{
+  width:100%;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#currentDate{
+  color:#ffffff;
+  text-align:center;
 }
