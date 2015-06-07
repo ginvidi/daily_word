@@ -40,8 +40,8 @@ function gimmeWord(words_file,subjects){
     $.each(dayword, function(key, value) {
       word = key;
       definition = value;
-      $( "#word" ).append( key );
-      $( "#definition" ).append( value );
+      $( "#word" ).html( key );
+      $( "#definition" ).html( value );
     });
 
 
@@ -57,7 +57,7 @@ $( "#newWord button" ).click(function() {
     url: "index.html",
     context: document.body
   }).done(function() {
-    console.log("in");
+
     gimmeWord(words_file,subjects);
   });
 });
